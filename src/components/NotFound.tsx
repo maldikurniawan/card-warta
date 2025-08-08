@@ -12,7 +12,7 @@ const NotFound = () => {
                         Page Not Found!
                     </div>
                     <div className="flex flex-col text-center ">
-                        <p className="text-sm text-[#060606] pt-[12px]">Halaman Tidak Ditemukan</p>
+                        <p className="text-sm text-[#060606] pt-[12px] font-semibold">Halaman Tidak Ditemukan</p>
                         <p className="text-sm text-[#808080] pt-1">Maaf, halaman yang Anda cari tidak tersedia atau telah dipindahkan. Silakan periksa kembali URL atau kembali ke halaman utama.</p>
                     </div>
                 </div>
