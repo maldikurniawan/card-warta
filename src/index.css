@@ -2,7 +2,7 @@
 @import "tailwindcss";
 
 @theme {
-    --font-poppins: "Inter";
+    --font-inter: "Inter";
 }
 
 body::before {
