@@ -3,7 +3,7 @@ import Circle from "./Circle";
 
 const NotFound = () => {
     return (
-        <div className="relative h-screen flex justify-center items-center p-4">
+        <div className="relative h-screen flex justify-center items-center p-5">
             <Circle />
             <Card>
                 <div className='flex flex-col'>

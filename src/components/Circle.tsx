@@ -3,7 +3,7 @@ const Circle = () => {
     return (
         <>
             <div
-                className="w-[111px] h-[111px] md:w-[211px] md:h-[211px] bg-[#FCB03A] absolute rounded-full bg-blur-200 -z-10 top-0 left-0"
+                className="w-[184px] h-[184px] md:w-[211px] md:h-[211px] bg-[#FCB03A] absolute rounded-full bg-blur-200 -z-10 top-0 left-0"
             ></div>
             <div
                 className="hidden md:block w-[282px] h-[282px] bg-[#FCB03A] absolute rounded-full bg-blur-200 -z-10 top-0 right-0"
