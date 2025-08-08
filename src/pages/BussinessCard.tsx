@@ -36,7 +36,6 @@ const BussinessCard = () => {
         return <Navigate to="/" />;
     }
 
-
     return (
         <div className="relative min-h-screen flex justify-center items-center p-5 overflow-x-hidden">
             <Circle />
