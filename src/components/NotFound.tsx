@@ -1,11 +1,12 @@
+import { TbError404 } from "react-icons/tb";
 
 const NotFound = () => {
     return (
-        <div className="relative h-screen flex justify-center items-center text-white bg-[#1A1A1A]">
+        <div className="relative h-screen flex justify-center items-center text-white bg-blackcool-200">
             <div className='flex flex-col'>
-                <img src="/assets/images/404.png" alt="404" className="w-auto max-w-full" />
+                <TbError404 className="mx-auto w-20 h-20"/>
                 <div className='text-center font-bold'>
-                    404 NOT FOUND
+                    NOT FOUND
                 </div>
             </div>
         </div>

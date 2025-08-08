@@ -1,1 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 @import "tailwindcss";
+
+@theme {
+    --font-poppins: "Poppins";
+    /* GrayCool */
+    --color-graycool-50: #F9FAFB;
+    --color-graycool-100: #F3F4F6;
+    --color-graycool-200: #E5E7EB;
+    --color-graycool-300: #D1D5DB;
+    --color-graycool-400: #9CA3AF;
+    /* Raspberry */
+    --color-raspberry-50: #E97296;
+    --color-raspberry-100: #E66088;
+    --color-raspberry-200: #E34F7B;
+    --color-raspberry-300: #E13D6E;
+    --color-raspberry-400: #DC225A;
+    /* OrangePeel */
+    --color-orangepeel-50: #FDC05D;
+    --color-orangepeel-100: #FDB849;
+    --color-orangepeel-200: #FDB035;
+    --color-orangepeel-300: #FDA821;
+    --color-orangepeel-400: #FD9C02;
+    /* GreenCool */
+    --color-greencool-50: #78E39F;
+    --color-greencool-100: #67E093;
+    --color-greencool-200: #56DC87;
+    --color-greencool-300: #45D97B;
+    --color-greencool-400: #2BD268;
+    /* BlueCool */
+    --color-bluecool-50: #859DFF;
+    --color-bluecool-100: #708DFF;
+    --color-bluecool-200: #5C7CFF;
+    --color-bluecool-300: #476CFF;
+    --color-bluecool-400: #234EFF;
+    /* OrangeCra */
+    --color-orangecra-50: #FEA486;
+    --color-orangecra-100: #FE9572;
+    --color-orangecra-200: #FD855D;
+    --color-orangecra-300: #FD7649;
+    --color-orangecra-400: #FD6835;
+    /* blackcool */
+    --color-blackcool-50: #333333;
+    --color-blackcool-100: #212121;
+    --color-blackcool-200: #1A1A1A;
+    --color-blackcool-300: #0D0D0D;
+    --color-blackcool-400: #000000;
+}
